@@ -1,0 +1,2 @@
+document_text = open('test.txt', 'r')
+text_string = document_text.read()
